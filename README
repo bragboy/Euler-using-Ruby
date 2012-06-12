@@ -1,0 +1,105 @@
+{
+    "tags": [{
+        "name": "Keynote",
+        "id": 12,
+        "color": "e68622"
+    }],
+    "speakers": [{
+        "position": "author of Tapworthy: Designing iPhone Interfaces for Delight and Usability",
+        "picture_url": "/system/pictures/1/thumb/josh_clark_1612x1802.jpg?1292517601",
+        "id": 1,
+        "last_name": "Clark",
+        "name": "Josh Clark",
+        "bio": "<p>Josh Clark is a designer specializing in mobile design strategy and user experience. He&#8217;s author of the O&#8217;Reilly books &#8220;Tapworthy: Designing Great iPhone Apps&#8221; and &#8220;Best iPhone Apps.&#8221; Josh&#8217;s outfit Global Moxie offers consulting services and workshops to help media companies, design agencies, and creative organizations build tapworthy mobile apps and effective websites.</p>\n<p>Before the interwebs swallowed him up, Josh worked on a slew of national <span class=\"caps\">PBS</span> programs at Boston&#8217;s <span class=\"caps\">WGBH</span>. He shared his three words of Russian with Mikhail Gorbachev, strolled the ranch with Nancy Reagan, hobnobbed with Rockefellers, and wrote trivia questions for a primetime game show. In 1996, he created the uberpopular &#8220;Couch-to-5K&#8221; (C25K) running program, which has helped millions of skeptical would-be exercisers take up jogging. (His motto is the same for fitness as it is for user experience: no pain, no pain.) Josh&#8217;s blog is <a href=\"http://globalmoxie.com/blog/\">globalmoxie.com</a>.</p>",
+        "twitter": "@globalmoxie",
+        "first_name": "Josh"
+    },
+    {
+        "position": "Sr. Software Engineer, Red Hat",
+        "picture_url": "/system/pictures/55/thumb/lincoln_baxter_iii.jpg?1300296744",
+        "id": 55,
+        "last_name": "Baxter III",
+        "name": "Lincoln Baxter III",
+        "bio": "<p>Lincoln Baxter, <span class=\"caps\">III</span> is a Senior Software Engineer at Red Hat, Inc., working on JBoss open-source projects; most notably as project-lead of Seam Forge &#8211; a standards based rapid application development tool. He is a founder of OcpSoft, and creator of PrettyFaces \u00e2\u20ac\u201c <span class=\"caps\">URL</span> Rewriting and <span class=\"caps\">SEO</span> extensions for Servlet, Java EE, and <span class=\"caps\">JSF</span>. He is also the creator of PrettyTime \u00e2\u20ac\u201c Social-style date &amp; time formatting for Java, a member of the JBoss Seam Team, and a member of the JSF2 Expert Group.</p>\n<p>When he is not swimming, running, or playing Ultimate Frisbee, Lincoln is focused on improving the openness of Java, the Java Community Process(<span class=\"caps\">JCP</span>), and bringing the J2EE platform to small businesses and freelancers. You can stay current on his latest open-source developments by subscribing to his blog at ocpsoft.com, or follow him on twitter.</p>",
+        "twitter": "@lincolnthree",
+        "first_name": "Lincoln"
+    }],
+    "conference": {
+        "street_address": "One Dock Street (2nd & Walnut)",
+        "state": "PA",
+        "end_date": "2011-04-28",
+        "city": "Philadelphia",
+        "twitter_hashtag": "#phillyete",
+        "latitude": 39.946117,
+        "zip": "19106",
+        "image_url": "http://phillyemergingtech.com/2011/images/logo_ete_2011.png",
+        "venue": "Society Hill Sheraton",
+        "venue_website": "http://www.starwoodhotels.com",
+        "longitude": -75.143732,
+        "conference_name": "ETE 2011",
+        "venue_phone": "215-238-6000",
+        "start_date": "2011-04-27"
+    },
+    "event": [{
+        "sponsor_id": 10,
+        "name": "Happy Hour",
+        "primary_tag_id": 22,
+        "time_slot_id": 14,
+        "image_url": "/images/original/missing.png",
+        "id": 66,
+        "item_type": "Event",
+        "tag_ids": [22],
+        "description": "<p>Happy Hour sponsored by Amazon Web Services</p>"
+    },
+    {
+        "name": "FuseSource",
+        "url": "http://fusesource.com",
+        "id": 15,
+        "logo_url": "/system/logos/15/original/fusesource.png?1303760683",
+        "sponsor_type_name": "Friend of ETE",
+        "description": "<p>FuseSource Open Source Community is a community resource for open source service oriented architecture (<span class=\"caps\">SOA</span>) and application integration products and technologies. FuseSource offers products based on Apache ServiceMix, Apache ActiveMQ, Apache <span class=\"caps\">CXF</span> and Apache Camel which are certified, productized and fully supported by the people who wrote the code.</p>",
+        "sponsor_display_order": 7
+    }],
+    "sessions": [{
+        "sponsor_id": null,
+        "name": "HTML5 and 'The Living Standard'",
+        "speaker_ids": [1],
+        "end_time": "2011-04-28T17:00:00-04:00",
+        "start_time": "2011-04-28T16:00:00-04:00",
+        "primary_tag_id": 13,
+        "time_slot_id": 2,
+        "id": 65,
+        "item_type": "Session",
+        "session_type_name": "",
+        "tag_ids": [13],
+        "duration": 3600,
+        "description": "<p>Did you know that HTML5 is no more? That&#8217;s right, at least according to the <span class=\"caps\">WHAT</span>-WG, the group that started the entire HTML5 revolution in the first place! In this session, Molly will first explain what the heck is behind these oft-confusing messages about HTML5. Then she&#8217;ll show you how the way we use markup is changing, and how <span class=\"caps\">HTML</span> and related APIs are opening up the entire ecosystem of the Web for the desktop and beyond.</p>",
+        "session_location_name": "Ballroom D"
+    },
+    {
+        "sponsor_id": null,
+        "name": "Cage Match: Mobile Web vs Native App",
+        "speaker_ids": [55],
+        "end_time": "2011-04-27T17:00:00-04:00",
+        "start_time": "2011-04-27T16:00:00-04:00",
+        "primary_tag_id": 16,
+        "time_slot_id": 3,
+        "id": 70,
+        "item_type": "Session",
+        "session_type_name": "",
+        "tag_ids": [16],
+        "duration": 3600,
+        "description": "<p>Mobile designer Josh Clark, author of &#8220;Tapworthy,&#8221; sets the stage for a mobile battle royale: native app vs mobile web. His talk steps back to take a look at the mobile environment and what your options are as a designer to help you choose the right path for you and your audience: do we implement a native app or build a web-based interface? Deciding which platform to target doesn&#8217;t hinge only on tech specs or audience reach. Every mobile OS has a different personality, design sensibility, and even government, all of which determine how well your individual app (and its audience) will thrive. Discover the cultural and practical considerations of choosing the right platform(s) for your app and audience, and of crafting a design that works for all.</p>",
+        "session_location_name": "Ballroom E"
+    }],
+    "time_slots": [{
+        "duration": 2700,
+        "id": 2,
+        "start_time": "2011-04-27T08:00:00-04:00"
+    },
+    {
+        "duration": 3600,
+        "id": 3,
+        "start_time": "2011-04-27T08:45:00-04:00"
+    }]
+}
