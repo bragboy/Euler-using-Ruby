@@ -79,7 +79,7 @@
     {
         "sponsor_id": null,
         "name": "Cage Match: Mobile Web vs Native App",
-        "speaker_ids": [55],
+        "speaker_ids": [1,55],
         "end_time": "2011-04-27T17:00:00-04:00",
         "start_time": "2011-04-27T16:00:00-04:00",
         "primary_tag_id": 16,
