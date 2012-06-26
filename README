@@ -794,7 +794,7 @@
         "duration": 3600,
         "description": "<p>Keep it simple.  <br />\nImprove your end to end deliver by understanding your environment, identifying key change capabilities, and integrating key performance indicators into your transformation plan. This session will give you hard and soft tools with pragmatic real life examples of change management from inside one of the most challenging transformations happening right now! You will leave with a new perspective on developing your business transformation plan and driving it to execution.</p>",
         "session_location_name": "Ballroom E",
-    "presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -1065,7 +1065,8 @@
         "tag_ids": [15],
         "duration": 3600,
         "description": "<p>So you&#8217;ve heard about MongoDB and it sounds really sweet (<span class=\"caps\">BTW</span>, it is!).  Now you&#8217;re thinking about using it in your application.  We can&#8217;t tell you if it&#8217;s right for your application, but we can tell you how we&#8217;re using it at Visibiz and that might help you with your implementation.</p>\n<p>This presentation provides a use case of MongoDB at Visibiz.  It first discusses why we chose to use MongoDB as our application&#8217;s primary datastore (what were the relevant application requirements and perceived benefits).  It then covers how we&#8217;re using MongoDB in the application, touching on schema design of the primary collection and listing several secondary uses for it in the architecture.  We also touch on lessons learned, as well as pros and cons.</p>",
-        "session_location_name": "Ballroom C"
+        "session_location_name": "Ballroom C",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1081,7 +1082,8 @@
         "tag_ids": [18],
         "duration": 3600,
         "description": "<p>After about fifteen years in the &#8220;Agile&#8221; business, Ron and Chet look back over that time and discuss what to do now, in the light of what has gone before. Has Scrum been a good thing for the world, a bad thing, or both? How should we think about fitting Lean ideas or Kanban ideas into the Agile approach? What are the primary pitfalls that occur again and again when trying to implement Agile, and how can they be avoided.</p>\n<p>Ron and Chet plan that this talk will be as close to a rant as the audience can  tolerate. At this time, they are not saying whether their slides will consist primarily of pictures of cats, or not.</p>",
-        "session_location_name": "Ballroom B"
+        "session_location_name": "Ballroom B",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1097,7 +1099,8 @@
         "tag_ids": [13],
         "duration": 3600,
         "description": "<p>The biggest benefit of <span class=\"caps\">DSL</span> driven development is the ability to collaborate with your domain experts as well as your fellow programmers as you flesh out your APIs. A <span class=\"caps\">DSL</span> needs to speak the language of the domain. But when you design a <span class=\"caps\">DSL</span>, it&#8217;s not only the linguistic aspect that you need to consider &#8211; the underlying semantic model also has to be malleable enough. It&#8217;s how this model interacts with your language syntax that shapes your <span class=\"caps\">DSL</span> implementation. The expressiveness of the language and the succinctness of implementation both depend a lot on the ability to design abstractions at the proper level.</p>\n<p>When you want to design a <span class=\"caps\">DSL</span> that models the ubiquitous language of the domain, there&#8217;s always a tension between the degree of expressiveness that you offer to your users and the ease and elegance of the underlying implementation. A successful <span class=\"caps\">DSL</span> is one that finds the right compromise between the two forces. In this talk I will discuss how to design abstractions at the proper granularity so that they compose beautifully when you weave them during your language evolution.</p>",
-        "session_location_name": "Ballroom C"
+        "session_location_name": "Ballroom C",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1113,7 +1116,8 @@
         "tag_ids": [13],
         "duration": 3600,
         "description": "<p>The theory and practicum of type inference has been around for literally decades, but it remains a tricky and needlessly dry topic, even in academic circles.  This talk will delve into the glorious details and subtle implications of type inference in industrial languages like C# and Scala, as well as highly mathematical languages like Haskell.  We will uncover the sordid reasons beyond some of the many unnerving quirks of modern type inference schemes, as well as the the amazing power they proffer.</p>\n<p>Love of math is not a prerequisite, though utter dread of such may result in minor hallucinations during the talk.  Deep-seated hatred of static typing is welcomed! The primary focus of this talk will be on Scala, Haskell and <span class=\"caps\">SML</span>, but prior knowledge of these languages is neither expected nor required.</p>",
-        "session_location_name": "Ballroom C"
+        "session_location_name": "Ballroom C",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1129,7 +1133,8 @@
         "tag_ids": [18],
         "duration": 3600,
         "description": "<p>Testing is a fundamental part of the Agile process.  We live and breath <span class=\"caps\">TDD</span>/<span class=\"caps\">BDD</span>. Red/Green/Refactor is our daily mantra.  We love cucumber and writing executable customer readable specifications.  We even write tests for our javascripts.</p>\n<p>And yet, testing remains hard.  The tests we love to write are brittle and tend to break when we refactor.  Although we talk about the tests being the specification of our code, too often the specify &#8220;how it&#8217;s implemented&#8221; rather than &#8220;the expected behaviour&#8221;.</p>\n<p>This talk is about how to improve the way we do testing, how to move away from merely specifying how our software is implemented to capturing the true essence of how it should function.  Although the code samples are Ruby-focused, many of the testing principles are applicable to other languages.</p>",
-        "session_location_name": "Ballroom B"
+        "session_location_name": "Ballroom B",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1145,7 +1150,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p>Congratulations! You&#8217;ve decided to test-drive your JavaScript. Have you decided how? Would you like a framework that has a <span class=\"caps\">BDD</span> syntax so you can express your specs cleanly? How about a one that is free of dependencies on application frameworks? Or, if you&#8217;re working on server-side JS, one that doesn&#8217;t require a <span class=\"caps\">DOM</span>?</p>\n<p>Welcome to Jasmine &#8211; a Behavior-Driven Development testing framework for JavaScript that is as comfortable testing code for an embeddable widget as it is a mobile HTML5 application or a Node.js server. We&#8217;ll fly by the syntax, sane source management, and touch on advanced topics such as dealing with <span class=\"caps\">AJAX</span> calls and shared example groups.</p>",
-        "session_location_name": "Ballroom E"
+        "session_location_name": "Ballroom E",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1161,7 +1167,8 @@
         "tag_ids": [16],
         "duration": 3600,
         "description": "<p>Ruboto is Ruby for Android devices. You can access the full Android <span class=\"caps\">API</span> from Ruby, giving your scripts all the power of a native application. Even better, you can build and distribute packages that will run on any Android phone, even ones without Ruboto installed.</p>\n<p>In this talk, you&#8217;ll see how to set up a working development environment (on desktop or phone). More importantly, you&#8217;ll learn how to manipulate Android from Ruby, giving you access to widgets (buttons and text fields), canvases (paint to the screen), even sensors (compass and accelerometer). Android novices will learn everything they need to get up and running, and pros will gain a powerful new language for their toolkit.</p>",
-        "session_location_name": "Ballroom A"
+        "session_location_name": "Ballroom A",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1177,7 +1184,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p>Spring Roo is a tool for enabling rapid application development on the Spring platform.  In this talk, Roo in Action author Ken Rimple will present the case for Roo in an interactive demo.  He&#8217;ll create an application, pulling the model from an existing database, generate a Spring <span class=\"caps\">MVC</span> front-end, demonstrate Ajax support, and show how to use the add-on system to rapidly enable features such as <span class=\"caps\">RIA</span>, messaging, text searching and testing with tools such as JUnit and Selenium.  He will discuss the current state of Roo as well as plans for the future of the tool.</p>",
-        "session_location_name": "Ballroom A"
+        "session_location_name": "Ballroom A",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1193,7 +1201,8 @@
         "tag_ids": [15],
         "duration": 3600,
         "description": "<p>The fundamental building block of Ning&#8217;s application architecture is the Content Store &#8212; a datastore abstraction which contains all of the content data for the millions of social networks that have run on Ning. This session steps through the evolution on the content store architecture, through five generations, since 2005 looking at the circumstances, requirements, decisions, and implementations at each step.</p>",
-        "session_location_name": "Ballroom E"
+        "session_location_name": "Ballroom E",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1209,7 +1218,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p><span class=\"caps\">REST</span> is the new &#8220;black&#8221; in web <span class=\"caps\">API</span> development RESTful APIs are all the rage due to the great scalability and simplicity of the <span class=\"caps\">REST</span> architecture in general. Most folks are familiar with many of the <span class=\"caps\">REST</span> constraints, often paraphrased as &#8220;everything is a resource&#8221; and &#8220;use <span class=\"caps\">HTTP</span> as your application protocol&#8221; (read with <span class=\"caps\">GET</span>, update with <span class=\"caps\">PUT</span>, add with <span class=\"caps\">POST</span>, etc.). However, Roy Fielding&#8217;s thesis also mentions a less commonly seen and understood constraint: using &#8220;hypermedia as the engine of application state.&#8221; In this talk, we&#8217;ll explain what this constraint means and show how it can provide an architecture with looser coupling between clients and servers &#8211; making it possible to upgrade the server without breaking clients (or, seen another way, making clients more robust to server-side changes). We&#8217;ll show an example <span class=\"caps\">API</span> that uses <span class=\"caps\">XHTML</span> as the media type (rather than the usual <span class=\"caps\">JSON</span> or <span class=\"caps\">XML</span> suspects) and talk about how this aids with <span class=\"caps\">API</span> discoverability. Finally, watch as we do some live coding during the talk to carry out multiple server side upgrades without breaking a pre-compiled client, evolving a very chatty protocol into one that makes fewer, coarser <span class=\"caps\">HTTP</span> requests, again, without requiring client-side changes.</p>",
-        "session_location_name": "Ballroom E"
+        "session_location_name": "Ballroom E",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1225,7 +1235,8 @@
         "tag_ids": [13],
         "duration": 3600,
         "description": "<p>Clojure is a new dynamic programming language for the Java Virtual Machine. Clojure introduces innovative ideas around state management and concurrency, while inheriting the best ideas from the long history of Lisp-like languages. It is a language designed to solve real problems, some of which are so pervasive in current programming practice that we don&#8217;t even recognize them as problems. This talk will provide an introduction to Clojure&#8217;s syntax and key concepts, with examples of how they can make a real impact in large, complex systems.</p>",
-        "session_location_name": "Ballroom D"
+        "session_location_name": "Ballroom D",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1241,7 +1252,8 @@
         "tag_ids": [13],
         "duration": 3600,
         "description": "<p>This talk will introduce webmachine, a toolkit for building <span class=\"caps\">REST</span> services in Erlang. Erlang was originally developed by Ericsson to build their telecom equipment. The past few years have seen Erlang spread into a number of areas including databases (CouchDB), messaging middleware (RabbitMQ), and networked servers. Hear why Erlang is also a great platform for building rock-solid web services.</p>",
-        "session_location_name": "Ballroom D"
+        "session_location_name": "Ballroom D",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1257,7 +1269,8 @@
         "tag_ids": [18],
         "duration": 3600,
         "description": "<p>Imagine this scenario, You&#8217;re a project manager who&#8217;s managing two projects and your boss asks you to manage a third. Or you&#8217;re a writer who&#8217;s supposed to work on two different areas of the product at the same time. Or you&#8217;re a developer or tester who&#8217;s supposed to work partly on this project, and partly on that one. Or, you&#8217;re dragged away from one project to work on another one. Or, part of the project is stuck so badly stuck that it makes no sense to continue there, but to work on another completely different part of the project. Welcome to the wonderful world of multitasking!</p>\n<p>Multi tasking is a huge drain on projects. Multi tasking can prevent an otherwise reasonably planned and executed project from completing. But in the face of too few people and not enough time, what can you do?</p>\n<p>In this session, we&#8217;ll experience some multi tasking, and discuss and practice techniques to deal with senior management, the project team, and ourselves.</p>",
-        "session_location_name": "Ballroom B"
+        "session_location_name": "Ballroom B",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1273,7 +1286,8 @@
         "tag_ids": [17],
         "duration": 3600,
         "description": "<p>The corporate enterprise is hierarchical, planned, and controlled.  Projects are too-often conceived, funded, delivered and rolled out from the center to the edge. The web and open source communities on the other hand are largely about decentralization, emergence, and adoption.</p>\n\n<p>What can the enterprise learn from the web and those open source communities?  Can we mix our metaphors and plan for emergence?  With the right architectures and platforms can we make it intentional while turning corporate innovation into a broadly participative sport?</p>",
-        "session_location_name": "Ballroom E"
+        "session_location_name": "Ballroom E",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1289,7 +1303,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p>We believe that one should never have to choose between productivity and  scalability, which has been the case with traditional approaches to concurrency and distribution. The cause of that has been the wrong tools and the wrong layer of abstraction &#8211; and Akka is here to change that. Akka is using the Actors together with Software Transactional Memory (<span class=\"caps\">STM</span>) to create a unified runtime and programming model for scaling both UP (utilizing multi-core processors) and <span class=\"caps\">OUT</span> (utilizing the grid/cloud). Akka provides location and network transparency by abstracting away both these tangents of scalability by turning them into an operations and configuration task. This gives the Akka runtime freedom to do adaptive automatic load-balancing, cluster rebalancing, replication and partitioning. In this talk you will learn what Akka is and how it can be used to solve hard scalability problems. We will also walk you through a real-world case-study using Akka to implement a highly scalable and fault-tolerant compute grid. Akka is available at http://akka.io (under Apache 2 license).</p>",
-        "session_location_name": "Ballroom C"
+        "session_location_name": "Ballroom C",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1305,7 +1320,8 @@
         "tag_ids": [16],
         "duration": 3600,
         "description": "<p>Explore an alternative approach to creating apps for iPhone and iPad. The free PhoneGap framework lets you build first-class native iPhone apps using just <span class=\"caps\">HTML</span>, <span class=\"caps\">CSS</span>, and JavaScript &#8211; a technique that also lets you create Android, Nokia, and Blackberry apps from the very same code base. Explore the pros and cons of this approach as you learn to create native-looking animations with jQTouch, complex UI elements with Sencha Touch, and hook into advanced iPhone features (accelerometer, <span class=\"caps\">GPS</span>, vibration, and sound) without ever touching Objective-C.</p>\n<p>When to consider <span class=\"caps\">HTML</span>, <span class=\"caps\">CSS</span>, and JavaScript as a development approach. How to convert a standard <span class=\"caps\">HTML</span> page into a finger-friendly, animated mobile app by pasting in a few lines of JavaScript.</p>\n<ul>\n\t<li>How to access advanced phone features (e.g. accelerometer, location, camera)    using simple JavaScript calls.</li>\n\t<li>Capabilities and limitations of the popular mobile platforms and mobile browsers.</li>\n\t<li>Solutions to common mobile development challenges when using web standard technology.</li>\n</ul>",
-        "session_location_name": "Ballroom D"
+        "session_location_name": "Ballroom D",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1321,7 +1337,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p>The Ruby programming language makes for great integration glue in enterprise applications. Since Rails is the equivalent glue for web applications, and JRuby allows us to use Rails in a Java environment, introducing Rails into an existing Java application would seem to have its benefits. However, undertaking this task without doing any significant rewriting may not be obvious. We&#8217;ll present strategies for incrementally moving portions of a Java web application to Ruby and taking advantage of the productivity of Rails 3 in a legacy Java environment. We&#8217;ll also highlight Ruby-centric tools and libraries that can be applied to take productivity to new levels once you&#8217;ve begun to harness the power of Ruby and Rails in your existing application.</p>",
-        "session_location_name": "Ballroom A"
+        "session_location_name": "Ballroom A",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1337,7 +1354,8 @@
         "tag_ids": [13],
         "duration": 3600,
         "description": "<p>We&#8217;ve all heard it: &#8220;Don&#8217;t worry about that just yet&#8221; followed by the famous Hoare and/or Knuth dictum, &#8220;Premature optimization is the root of all evil.&#8221;</p>\n<p>So why does the dictum always feel neither exactly right, nor completely wrong?</p>\n<p>Like soap operas, many software projects are engineered to go on forever. Releases more than a few months old seem already covered in cobwebs. Given such a paradigm for the project life-cycle, when does &#8220;premature&#8221; give way to &#8220;mature&#8221;? At what level of granularity in the project and/or the code does maturity emerge&#8212;and how do you know? Do rules rooted in the concept of &#8220;maturity&#8221; even have a place?</p>\n<p>This talk will use some of these observations and questions as a point of entry for consideration of small-scale code optimizations. We&#8217;ll look at the ways in which most of us already optimize, sometimes unconsciously, and try to fit the pieces of the maturity/optimization puzzle together in a satisfying manner.</p>",
-        "session_location_name": "Ballroom C"
+        "session_location_name": "Ballroom C",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1353,7 +1371,8 @@
         "tag_ids": [16],
         "duration": 3600,
         "description": "<p>The BlackBerry PlayBook is RIM&#8217;s entry into the world of tablets. It&#8217;s been architected from the ground up to be a high-performing device that can be easily adapted to the enterprise through custom applications based on the Adobe <span class=\"caps\">AIR</span> runtime.  This session will give you an introduction to the ins and outs of <span class=\"caps\">AIR</span> development on the PlayBook, and give you the tools to get started.  Topics covered will include:</p>\n<ul>\n\t<li>What is <span class=\"caps\">AIR</span>?</li>\n\t<li>What is the PlayBook?</li>\n\t<li>What you can do with <span class=\"caps\">AIR</span> on the PlayBook?</li>\n\t<li>Building your first <span class=\"caps\">AIR</span> application on the PlayBook.</li>\n</ul>",
-        "session_location_name": "Ballroom A"
+        "session_location_name": "Ballroom A",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1369,7 +1388,8 @@
         "tag_ids": [18],
         "duration": 3600,
         "description": "<p>So your company or organization has been sold on the Agile flavor of the month. You are planning to start using those agile practices or perhaps already have, but something doesn&#8217;t fit. Are you doing it wrong or is something missing from your process?</p>\n<p>In this session, Camille Bell will explore many common Agile transformation issues and what you can do about them.</p>\n<p>Such issues will include:</p>\n<ul>\n\t<li>No on-site customer for XP.</li>\n\t<li>No single Product Owner in Scrum.</li>\n\t<li>The user stories are too big.</li>\n\t<li>The user stories are too vague.</li>\n\t<li>Bug count is going up or not going down.</li>\n\t<li>Customer/Stakeholders/PO never choose technical stories for next<br />\niteration/sprint.</li>\n\t<li>Customer/Stakeholders/PO won&#8217;t take the time to prioritize their backlog.</li>\n\t<li>Even though story points match prior velocity, there seems to be too<br />\nmuch work.</li>\n\t<li>Stand-up or Scrum meetings take forever.</li>\n\t<li>Stand-up or Scrum meetings are short, but no one talks about real problems.</li>\n\t<li>Management doesn&#8217;t value removing impediments quickly.</li>\n\t<li>Velocity seems to be slowing down.</li>\n\t<li>So many hoops to jump through that it takes forever to get anything done.</li>\n\t<li>etc.</li>\n</ul>",
-        "session_location_name": "Ballroom B"
+        "session_location_name": "Ballroom B",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1385,7 +1405,8 @@
         "tag_ids": [15],
         "duration": 3600,
         "description": "<p>When dealing with high-volume distributed systems, even the most mundane tasks can be daunting challenges. This talk describes some of the steps, as well as missteps, made while building such a system. It will work through the discovery of such (what such pain points? not sure what that&#8217;s referring to) pain points, as well as describe their resolutions with specific technologies or patterns.</p>\n<p>Over the course of three years, Invite Media built a high-volume system for serving online advertisements from the ground up. Some of the more interesting challenges revolved around operating routine services at scale, such as distributing requests, logging diagnostics, and keeping track of simple transactions.</p>\n<p>This talk will dive into some of these problems, showing the evolution of simple systems at scale, with a strong bias towards cloud-hosted applications. It will include details about the discovery and resolution of bottlenecks we experienced, as well as specific technologies and pattens discovered in the process.</p>\n<p>It may serve as a springboard for ideas when building distributed cloud-based systems, as well as hone a sense of when components may be reaching their tipping point.</p>",
-        "session_location_name": "Ballroom B"
+        "session_location_name": "Ballroom B",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1401,7 +1422,8 @@
         "tag_ids": [16],
         "duration": 3600,
         "description": "<p>Android is a new mobile development platform, based on the Java<br />\nlanguage and tool set, designed to allow developers to get up to speed<br />\nwriting mobile code on any of a number of handsets quickly. In this<br />\npresentation, we&#8217;ll go over the basic setup of the Android toolchain,<br />\nhow to deploy to a device, and basic constructs in the Android world.</p>\n<p>Attendees should be intermediate to advanced Java developers, as no<br />\ntime will be spent on Java basics, just the Android parts. Attendees<br />\nare encouraged to bring laptops to the session (and your Android-based<br />\ndevice, if you have one) to fill out code as we go, but the limited<br />\ntime frame means a focus on fast delivery of content and example code;<br />\nhave your fingers warmed up (and the <span class=\"caps\">SDK</span> downloaded!) before you get<br />\nhere.</p>",
-        "session_location_name": "Ballroom A"
+        "session_location_name": "Ballroom A",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1417,7 +1439,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p>Node presents a simple environment for scripting a single threaded process. The non-blocking nature of the architecture allows for many hundreds or thousands of concurrent connections to that single process. For a large number of programs one process is enough. Massive internet programs are expected to be distributed not only across the different CPUs on a machine but across the world. This talk will describe why Node is a good foundational building block for these massive scale programs and announce a new framework for building networks of Node processes.</p>",
-        "session_location_name": "Ballroom E"
+        "session_location_name": "Ballroom E",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1433,7 +1456,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p>This session will focus on integrating with social media with your Spring projects.  The Spring Social project allows developers to interact with Twitter, LinkedIn, Facebook &amp; TripIt in web and mobile projects. We will discuss security concerns with OAuth 1.0 &amp; 2.0 and how Spring templates make our job easier.<br />\n  Topics Include:</p>\n<ul>\n\t<li>Spring Greenhouse &#8211; reference implementation of Spring Social</li>\n\t<li>Spring Mobile &#8211; integrating Spring Social with iPhone &amp; Android</li>\n\t<li>Security with OAuth</li>\n\t<li>Accessing Social data with <span class=\"caps\">REST</span>, <span class=\"caps\">JSON</span> &amp; <span class=\"caps\">XML</span></li>\n\t<li>Examples of Spring Social Media Templates</li>\n</ul>",
-        "session_location_name": "Ballroom E"
+        "session_location_name": "Ballroom E",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1449,7 +1473,8 @@
         "tag_ids": [16],
         "duration": 3600,
         "description": "<p>In this session Dave will look at the humble beginnings of PhoneGap at an iPhone hack day and what spurred the creators to build a write once, run anywhere mobile platform based on web standards. He will then trace it&#8217;s path to the present and look at the capabilities of the framework and how it can help your organization to reduce mobile development and support costs through web standards. Dave will finish by discussing what the future holds for PhoneGap from the release of version 1.0 to exciting new tooling and even approaches to writing background services with JavaScript.</p>\n<p>The goal of the PhoneGap project is to become a reference implementation of HTML5 for mobile applications, it is not there yet and needs your help!</p>",
-        "session_location_name": "Ballroom D"
+        "session_location_name": "Ballroom D",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1465,7 +1490,8 @@
         "tag_ids": [13],
         "duration": 3600,
         "description": "<p>The <span class=\"caps\">DRY</span> Principle (Don&#8217;t Repeat Yourself) suggests that &#8220;every piece of knowledge must have a single, unambiguous, authoritative representation within a system.&#8221; A powerful guideline, but it is often heeded without a clear understanding of its underlying motivations, nor consideration for other principles that might lead the code in other directions. In this talk, we&#8217;ll explore duplication in code in a variety of forms and the risks associated with each. We&#8217;ll look at strategies for reducing duplication without sacrificing design basics like encapsulation, low coupling, and high cohesion. We&#8217;ll look at other principles that are often left behind in the name of keeping the code <span class=\"caps\">DRY</span>, and how to balance them to keep your code flexible and maintainable.</p>",
-        "session_location_name": "Ballroom B"
+        "session_location_name": "Ballroom B",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1481,7 +1507,8 @@
         "tag_ids": [12],
         "duration": 3600,
         "description": "<p>One of the things about the open source community and web developers that continues to baffle those non-open source people is, why do you do it? People and companies work on open source software and open web applications for a number of reasons from scratching an itch to gaining a reputation to building a resume to contributing to a good cause. The interesting problem comes when money enters into the equation. Research shows that when someone works on something for free for internal rewards, those internal rewards are replaced if you start paying them. Then if you stop paying them, they will stop working on it. So when people get paid to work on open source software, does that change things? If their free web application starts making money, does that change things? How can companies work with these open processes and technologies in a productive way? Why are open technologies important to business?</p>",
-        "session_location_name": "Grand Ballroom"
+        "session_location_name": "Grand Ballroom",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1497,7 +1524,8 @@
         "tag_ids": [12],
         "duration": 3600,
         "description": "<p>In this keynote session, Molly will compare the core principles of the Web as it was envisioned to the Web we have today. Are we moving toward or away from those original ideas, and if so, is that helping or harming the Web? This thought-provoking talk covers the influences of the W3C, browser companies and most importantly how we as an industry are truly agents of change. And look out, audience! There will be some enjoyable anecdotes from the bad old days of the Web, and the audience should be prepared to be asked about their own misdeeds along the way.</p>",
-        "session_location_name": "Grand Ballroom"
+        "session_location_name": "Grand Ballroom",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1513,7 +1541,8 @@
         "tag_ids": [18],
         "duration": 3600,
         "description": "<p>I have been practicing pair programming for more than 6 years with two different organizations and over many projects.  Pair programming is undoubtedly hard work.  In order to create a sustainable pace and reap the most benefits from pairing, the mechanics are crucial.</p>\n<p>In this presentation, I&#8217;ll explain the mechanics of pair programming and how to best leverage it within your organization.  Even if you are only able to pair occasionally, it will have a profound impact on your career and organization.</p>\n<p>If you are new to pairing, this presentation can increase your chances of getting off to a good start.</p>\n<p>If you have been pairing for a while, this presentation is aimed to improve your overall pairing experience.</p>",
-        "session_location_name": "Ballroom B"
+        "session_location_name": "Ballroom B",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1529,7 +1558,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p>Eclipse Virgo (http://www.eclipse.org/virgo/) is fully modular OSGi runtime. Virgo is based on the dmServer 2.0 code based donated by Spring Source to Eclipse foundation. Virgo is hard at work to simplify migration of existing java applications to a modular OSGi based environment.</p>\n<p>During this session we will discuss key features of Virgo such as: regions, deployment plans and repositories. We will also see how Virgo helps building dynamic and modular enterprise applications by integrating with Eclipse Gemini (http://eclipse.org/gemini/)components.</p>",
-        "session_location_name": "Ballroom A"
+        "session_location_name": "Ballroom A",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1545,7 +1575,8 @@
         "tag_ids": [15],
         "duration": 3600,
         "description": "<p>Once, IT was limited by the time it took to provision and deploy new infrastructure. With clouds, however, we can launch &#8212; and decommission &#8212; entire virtual data centers instantly. This accelerates the cycle time of IT. It&#8217;s analogous to two other shifts in technology: agile software development methodologies, and the &#8220;devops&#8221; movement of self-scaling, self-healing architectures. We&#8217;ll see how the fates of clouds, agile coding, and devops are intertwined, and what this means for IT professionals.</p>\n<p>In this session, John Willis (the co-host of the popular Devops Caf\u00c3\u00a9 and the IT Management &amp; Cloud Podcast) will catch you up on what Devops is looking like and how it might help (or harm!) you. This session will give you a pragmatic overview of Devops and leave with a better idea of how Devoops applies to you and your organization.</p>",
-        "session_location_name": "Ballroom D"
+        "session_location_name": "Ballroom D",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1561,7 +1592,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p>This session provides an overview of Spring&#8217;s support for scheduling, messaging, and enterprise integration. You will learn how these features provide a platform for message-driven architecture. You will also learn about Spring&#8217;s support for Hohpe and Woolfe&#8217;s Enterprise Integration Patterns. This includes demos of several basic patterns such as Message Channel, Message Transformer, and Message Router, as well as composite patterns such as Scatter/Gather using a Splitter and Aggregator. The examples will also cover different options for adding custom integration logic within the configuration-driven context. Those options include not only POJOs, but also Spring 3.0&#8217;s Expression Language and Groovy scripts. Finally, you will see Channel Adapters and Messaging Gateways that support <span class=\"caps\">JMS</span>, Web Services, Email, and more.</p>",
-        "session_location_name": "Ballroom A"
+        "session_location_name": "Ballroom A",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1577,7 +1609,8 @@
         "tag_ids": [15],
         "duration": 3600,
         "description": "<p>We have been managing many thousands of Mac and Linux clients with puppet and we will present our use case in the hopes that our experience can benefit others.  We will focus on what Puppet has allowed us to accomplish and will not spend much time comparing it directly to other configuration management solutions.</p>\n<p>We will describe our internal OS X release process, in which Puppet plays a key role.  Of course not everything has worked out as planned and we will also discuss the pitfalls and failed efforts we have experienced along the way, paying attention to the long term consequences of some early architectural decisions.   We will describe the current state of our mac deployment and will wax poetic about some of the interesting projects we&#8217;re planning for the future.</p>",
-        "session_location_name": "Ballroom D"
+        "session_location_name": "Ballroom D",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1593,7 +1626,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p>Enterprise Edition? That sounds complex. Who has time for complex these days? We certainly don&#8217;t. That&#8217;s why in this talk, we&#8217;ll showcase how the latest developments in the Java EE platform and ecosystem have brought new meaning to the double E: &#8220;Easy&#8221; and &#8220;Extensible&#8221;.</p>\n<p>We&#8217;ll begin by summarizing the functionality Java EE 6 gives you out of the box. Hint: intelligent defaults replace <span class=\"caps\">XML</span> and disparate technologies have been connected by powerful services like <span class=\"caps\">CDI</span>. We won&#8217;t pretend that one size fits all. You&#8217;ll discover that the closed feature set has been abolished with the inclusion of the <span class=\"caps\">CDI</span> extension facility. You now have the choice of building new features into the programming model in addition to using what&#8217;s provided. That still leaves a lot of work. So we&#8217;ll appeal to your practical side and highlight some of the extensions Seam 3 already has prepared for you.</p>\n<p>Despite all these features, the code isn&#8217;t going to write itself. Or can it? Throughout the talk, you&#8217;ll witness how Forge can incrementally assemble an application at your command. At the end of the talk we&#8217;ll remind you of the fact that you are doing all this with the Enterprise Edition of Java without any of the pain that would seem to imply. Now that was easy.</p>",
-        "session_location_name": "Ballroom B"
+        "session_location_name": "Ballroom B",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1609,7 +1643,8 @@
         "tag_ids": [13],
         "duration": 3600,
         "description": "<p>Did you know that HTML5 is no more? That&#8217;s right, at least according to the <span class=\"caps\">WHAT</span>-WG, the group that started the entire HTML5 revolution in the first place! In this session, Molly will first explain what the heck is behind these oft-confusing messages about HTML5. Then she&#8217;ll show you how the way we use markup is changing, and how <span class=\"caps\">HTML</span> and related APIs are opening up the entire ecosystem of the Web for the desktop and beyond.</p>",
-        "session_location_name": "Ballroom D"
+        "session_location_name": "Ballroom D",
+	"presentation": null
     },
     {
         "sponsor_id": null,
@@ -1625,7 +1660,8 @@
         "tag_ids": [16],
         "duration": 3600,
         "description": "<p>Mobile designer Josh Clark, author of &#8220;Tapworthy,&#8221; sets the stage for a mobile battle royale: native app vs mobile web. His talk steps back to take a look at the mobile environment and what your options are as a designer to help you choose the right path for you and your audience: do we implement a native app or build a web-based interface? Deciding which platform to target doesn&#8217;t hinge only on tech specs or audience reach. Every mobile OS has a different personality, design sensibility, and even government, all of which determine how well your individual app (and its audience) will thrive. Discover the cultural and practical considerations of choosing the right platform(s) for your app and audience, and of crafting a design that works for all.</p>",
-        "session_location_name": "Ballroom E"
+        "session_location_name": "Ballroom E",
+	"presentation": null
     }],
     "time_slots": [{
         "duration": 2700,
