@@ -793,7 +793,8 @@
         "tag_ids": [17],
         "duration": 3600,
         "description": "<p>Keep it simple.  <br />\nImprove your end to end deliver by understanding your environment, identifying key change capabilities, and integrating key performance indicators into your transformation plan. This session will give you hard and soft tools with pragmatic real life examples of change management from inside one of the most challenging transformations happening right now! You will leave with a new perspective on developing your business transformation plan and driving it to execution.</p>",
-        "session_location_name": "Ballroom E"
+        "session_location_name": "Ballroom E",
+    "presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -809,7 +810,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p>SproutCore&#8217;s been around for about 5 years, and is the core technology used in Mobile Me and NPR&#8217;s new app for the Chrome Web Store. But what&#8217;s it really all about? In this talk, Yehuda will walk you through the core concepts of SproutCore. You should walk away from the talk with an understanding of what SproutCore does for you, and an idea of where to go next to start using it in a real project.</p>\n<p>He will also talk about how you can use SproutCore without having to use the full framework for smaller projects.</p>",
-        "session_location_name": "Ballroom C"
+        "session_location_name": "Ballroom C",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -825,7 +827,8 @@
         "tag_ids": [13],
         "duration": 3600,
         "description": "<p>We are facing more and more complex problems and our current approaches aren&#8217;t as effective any more. One of the newer trends is to adopt new languages to attack these new problems. But just taking up a new language is usually not a very pragmatic solution. A middle ground approach is instead to combine new languages with your current approach. This approach is called polyglot programming, and the goal is to use the strongest features of each language and then combine them together on a platform with strong libraries.</p>\n<p>This presentation will discuss the reasons for going polyglot and some patterns on how to make it work.</p>",
-        "session_location_name": "Ballroom C"
+        "session_location_name": "Ballroom C",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -841,7 +844,8 @@
         "tag_ids": [17],
         "duration": 3600,
         "description": "<p>The rapid pace of technology change, ever shorter technology life cycles and the massive demand to move consumer technologies into the enterprise are just a few of the technology and leadership challenges facing today&#8217;s CIOs.</p>\n<p>Organizations that are successful in making the jump from one technology curve to the next realize significant business advantage and create extraordinary value for their customers and stakeholders. Florida State College at Jacksonville has excelled at making successful technology moves, reaped significant rewards from innovation and early adoption and emerged as a technology leader while providing its over 84,000 students with an exceptional educational and service experience.</p>\n<p>In this presentation Dr. Rob Rennie will present the concepts, organizational philosophy, planning models and operational methods that have led to the college&#8217;s success. He will provide examples of technology innovation and adoption at the college including iPhone and iPad deployment, large scale cloud initiatives, and new ways of delivering traditional services while extending the value of legacy systems.</p>",
-        "session_location_name": "Ballroom E"
+        "session_location_name": "Ballroom E",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -857,7 +861,8 @@
         "tag_ids": [13],
         "duration": 3600,
         "description": "<p>Every foreign language you learn makes you a little smarter, and even shapes the way you think. In the Pragmatic Programmer, Dave Thomas and Andy Hunt say that a developer should learn a new programming language every year. In the book Seven Languages in Seven Weeks, Bruce takes this challenging advice to the extreme. The book helps a developer solve a nontrivial problem in each of seven different programming languages, spanning four different programming paradigms. In this talk, Bruce will take a light-hearted look through the evolution of programming languages, paying special attention to the seven languages in his book, Ruby, Io, Prolog, Scala, Erlang, Clojure, and Haskell.</p>",
-        "session_location_name": "Ballroom C"
+        "session_location_name": "Ballroom C",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -873,7 +878,8 @@
         "tag_ids": [15],
         "duration": 3600,
         "description": "<p>In the real world, developers are often asked to cut corners to meet deadlines.  Many times the cut corners end up making the end software product difficult to operate: either less easily monitored or brittle when coping with remote dependency failures.  JRugged is a set of Java libraries that makes accounting for operability, reporting/monitoring and remote system status simple and easy to incorporate.  In this talk we&#8217;ll show how easily JRugged can make your code more &#8220;rugged&#8221; and production-ready.</p>",
-        "session_location_name": "Ballroom A"
+        "session_location_name": "Ballroom A",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -889,7 +895,8 @@
         "tag_ids": [16],
         "duration": 3600,
         "description": "<p>Sencha Touch is a mobile web app framework that allows developers to create rich mobile apps which look and feel native. In addition to a robust set of UI components, Sencha Touch offers an object-oriented <span class=\"caps\">MVC</span> architecture, data stores/models, and a flexible theming system. David Kaneda will cover the benefits of Sencha Touch and take a brief look at how to develop amazing mobile apps using only JavaScript, <span class=\"caps\">HTML</span>, and CSS3.</p>",
-        "session_location_name": "Ballroom C"
+        "session_location_name": "Ballroom C",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -905,7 +912,8 @@
         "tag_ids": [15],
         "duration": 3600,
         "description": "<p>Relational databases have long been considered the one true way to persist enterprise data. But today, NoSQL databases are emerging as a viable alternative for many applications. They can simplify the persistence of complex data models and offer significantly better scalability, and performance. But using NoSQL databases is very different than the <span class=\"caps\">ACID</span>/<span class=\"caps\">SQL</span>/<span class=\"caps\">JDBC</span>/<span class=\"caps\">JPA</span> world that we have become accustomed to. They have different and unfamiliar APIs and a very different and usually limited transaction model. In this presentation, we describe some popular NoSQL databases &#8211; Redis, SimpleDB, MongoDB, and Cassandra. You will learn about each database&#8217;s data model and Java <span class=\"caps\">API</span>. We describe the benefits and drawbacks with using NoSQL databases. Finally, you will learn how the Spring Data project simplifies the development of Java applications that use NoSQL databases.</p>",
-        "session_location_name": "Ballroom A"
+        "session_location_name": "Ballroom A",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -921,7 +929,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p>In version 3.1, Rails finally realizes the dream of fully reusable slices of functionality. Thanks to Piotr Sarnacki, one of last year&#8217;s Ruby Summer of Code students, Rails Engines have gone from a quirky cousin of Rails plugins to a full-fledged application that can be reused cleanly and reliably.</p>\n<p>In this talk, Yehuda will describe how the Rails Admin interface leverages the new features in Rails 3.1 Engines, and how you can use Engines to build your own truly reusable functionality.</p>",
-        "session_location_name": "Ballroom D"
+        "session_location_name": "Ballroom D",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -937,7 +946,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p>Google Web Toolkit  Ten killer features</p>\n<p>Most JavaScript frameworks have widgets, event handling, <span class=\"caps\">JSON</span> support, and animations.  But not many can say that they automatically optimize your code so that it loads and runs faster, like <span class=\"caps\">GWT</span> does.  In this talk we will look at some of the more unique features of <span class=\"caps\">GWT</span> that make it stand out in the crowded JavaScript framework space.  Some of the features that will be discussed include UIBinder, code splitting, resource bundles, network optimizations, generators, and logging.</p>",
-        "session_location_name": "Ballroom D"
+        "session_location_name": "Ballroom D",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -953,7 +963,8 @@
         "tag_ids": [18],
         "duration": 3600,
         "description": "<p>Cognitive scientists tell us that we are more productive and happier when our behavior matches our brain&#8217;s hardwiring when what we do and why we do it matches the way we have evolved to survive over tens of thousands of years. One problematic behavior humans have is that we are hardwired to instantly decide who we trust. And we generally aren&#8217;t aware of these decisions it just happens. Linda Rising explains that this hardwired trust evaluation can get in the way of working well with others. Pairing, the daily stand up, and close communication with the customer and others outside the team go a long way to overcome our instant evaluation of others. As Linda helps you gain a better understanding of this mechanism in your behavior and what agile processes can do to help, you are more likely to build better interpersonal relationships and create successful products.</p>",
-        "session_location_name": "Ballroom B"
+        "session_location_name": "Ballroom B",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -969,7 +980,8 @@
         "tag_ids": [17],
         "duration": 3600,
         "description": "<p>Social media has been written about ad nauseam. Hardly a day goes by without someone somewhere talking up or down the latest social media site. And much of that focus has been on the individual and their interactions. Little has been written or said from a corporate perspective.</p>\n<p>How do corporations leverage their internal processes, policies and structures to wring benefit from social media platforms. Mark Silver, based on more than a decade&#8217;s experience with marketing and communication, as well as having worked in Government and the private sector, brings a fresh corporate perspective to the social media paradigm. With views that are sometimes controversial, but backed by common sense and sound research, Mark will shed some light on what can be a corporate conundrum. You should walk away from the presentation with some practical strategies to build your own corporate social media team.</p>",
-        "session_location_name": "Ballroom E"
+        "session_location_name": "Ballroom E",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -985,7 +997,8 @@
         "tag_ids": [14],
         "duration": 3600,
         "description": "<p>This talk unveils the missing link in enterprise Java development: simple, portable integration tests. For many, this void has long made enterprise Java development an arduous undertaking. While development life is simple with unit tests and mocks, they only take you so far. Eventually, you need to validate how your components interact and operate in their intended environment&#8212;you need real integration tests. Yet, writing integration tests has meant assuming the burden of bootstrapping all or part of your infrastructure. That&#8217;s time lost and it places a mental barrier on testing.</p>\n<p>Arquillian, a container-oriented testing framework layered atop TestNG and JUnit, tears down this barrier. It does so by bringing your test to the runtime rather than requiring you to manage the runtime from your test. Picking up where unit tests leave off, Arquillian enables you to test real components that rely on real enterprise services in a real runtime. What&#8217;s the secret ingredient?</p>\n<p>This talk will show how Arquillian simplifies integration testing by providing a component model for tests, just as Java EE 5 simplified server-side programming by providing declarative services for application components. The test component model consists of container lifecycle management, test enrichment (dependency injection), container deployment and in-container test execution. Using a component model means your tests are portable and able to move between different environments, from single embedded or remote to multi-server to multi-cloud nodes.</p>\n<p>Attend this talk to learn about the future of Java enterprise testing.</p>",
-        "session_location_name": "Ballroom A"
+        "session_location_name": "Ballroom A",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -1001,7 +1014,8 @@
         "tag_ids": [18],
         "duration": 3600,
         "description": "<p>What can a remote clinic in Africa teach us about enterprise architecture? What can a Southeast Asian Ministry of Health with a critical mission, but no <span class=\"caps\">CTO</span> and no budget teach us about our agile methods? More than you would think!</p>\n<p>In this session I will share my experiences from working as an architect at Microsoft to working on health and emergency technologies in low-resource settings.  Learn how we work everyday with mobile and cloud technologies, in a setting that  may challenge a lot of your assumptions about the patterns that underly robust enterprise architectures and methods.</p>",
-        "session_location_name": "Ballroom B"
+        "session_location_name": "Ballroom B",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -1017,7 +1031,8 @@
         "tag_ids": [16],
         "duration": 3600,
         "description": "<p>Fingers and thumbs turn design conventions on their head. Touchscreen interfaces create ergonomic, contextual, and even emotional demands that are unfamiliar to desktop designers. Find out why our beloved desktop windows, buttons, and widgets are weak replacements for manipulating content directly, and learn practical principles for designing mobile interfaces that are both more fun and more intuitive. Along the way, discover why buttons are a hack, how to develop your gesture vocabulary, and why toys and toddlers provide eye-opening lessons in this new style of design.</p>",
-        "session_location_name": "Ballroom C"
+        "session_location_name": "Ballroom C",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
@@ -1033,7 +1048,8 @@
         "tag_ids": [15],
         "duration": 3600,
         "description": "<p>Millions of lines of code. Terabytes of data.  Far too much to wrap our minds around. So how do we handle it?</p>\n<p>In this talk Michael Glaesemann gives a history of his work at myYearbook.com where he started as the social network&#8217;s first full-time <span class=\"caps\">DBA</span>. Starting with little experience with big data but a lot theory and a willingness to learn, application of fundamentals such as the scientific method, understanding the underlying implementation, and reductionism has kept him from being overwhelmed in a fast-paced environment. Along the way he provides examples of approaches and solutions using PostgreSQL, pgBouncer, PL/Proxy, and other technologies that have helped scale the largest social network you&#8217;ve never heard of.</p>",
-        "session_location_name": "Ballroom D"
+        "session_location_name": "Ballroom D",
+	"presentation": "http://www.fileden.com/files/2012/6/26/3320306/Emerging%20Technologies.pptx"
     },
     {
         "sponsor_id": null,
